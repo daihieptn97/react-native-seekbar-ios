@@ -5,7 +5,7 @@ Not working in android
 ## Installation
 
 ```sh
-yarn install react-native-seekbar-ios
+yarn add react-native-seekbar-ios
 ```
 
 ```sh
