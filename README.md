@@ -8,6 +8,10 @@ Not working in android
 yarn install react-native-seekbar-ios
 ```
 
+```sh
+cd ios && pod install
+```
+
 ## Usage
 
 ```js
