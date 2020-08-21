@@ -1,4 +1,7 @@
 #import <React/RCTBridgeModule.h>
+#import <React/RCTViewManager.h>
+#import <React/RCTUIManager.h>
+#import <React/RCTLog.h>
 
 @interface RCT_EXTERN_MODULE(SeekbarIos, RCTViewManager)
 RCT_EXPORT_VIEW_PROPERTY(thumbColor, UIColor)
